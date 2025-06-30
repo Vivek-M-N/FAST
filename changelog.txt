@@ -1,0 +1,5 @@
+20250217 - input reading and class
+20250220 - adding init to class, created gui
+20250310 - rearranged files and code
+20250321 - nonlocal variable for config to pass from read to sim, updated model
+20250323 - added update and result storing to txt file, removed additional_funcs script
